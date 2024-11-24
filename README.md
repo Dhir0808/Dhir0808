@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dhir 
 - 👀 I’m interested in startups in blockchain technology and Cyber Security.
-- 🌱 I’m currently learning go, core lockchain development.
+- 🌱 I’m currently learning go, core blockchain development.
 - 💞️ I’m looking to collaborate on blockchain development and typescript projects. 
 - 📫 How to reach me ... dhirkatre@gmail.com
 
